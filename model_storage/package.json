@@ -1,0 +1,9 @@
+{
+  "name": "ModelGraphStorage",
+  "description": "deep neural network graph storage",
+  "version": "0.1",
+  "author": "faniel ghirmay",
+  "dependencies": {
+    "mongodb": "^2.2.31"
+  }
+}
