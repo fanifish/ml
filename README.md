@@ -1,6 +1,6 @@
 # ml
 
-### A simple implementation of tensorflow model saver
+## A simple implementation of tensorflow model saver
 
 
 
@@ -8,11 +8,11 @@
 
 import storage_client as sc
 
-save model by
+### save model by
 
 sc.saveModel(tf_session)
 
-load model by
+### load model by
 
 ms = sc.ModelStorage()
 
